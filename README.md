@@ -7,4 +7,4 @@ The Perl script handles form submission, validating the input data for correctne
 Upon successful submission, it saves the uploaded photo and presents a confirmation page with the submitted information. Both the HTML form and Perl script are styled using CSS for a visually appealing and user-friendly interface.
 Overall, this system offers a comprehensive registration process with server-side validation and feedback.
 
-Check out the URL of the website :  https://www2.cs.torontomu.ca/~epolat/lab07b.html
+Check out the URL of the website :  [Registration Website](https://www2.cs.torontomu.ca/~epolat/lab07b.html)
