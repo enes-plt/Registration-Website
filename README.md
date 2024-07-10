@@ -11,4 +11,4 @@ Upon successful submission, it saves the uploaded photo and presents a confirmat
 
 Overall, this system offers a comprehensive registration process with server-side validation and feedback.
 
-Check out the URL of the website :  [Registration Website](https://www2.cs.torontomu.ca/~epolat/lab07b.html)
+Check out the link of the website :  [Registration Website](https://www2.cs.torontomu.ca/~epolat/lab07b.html)
